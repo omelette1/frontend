@@ -4,8 +4,7 @@ import { Link, Outlet, Route, Routes } from "react-router-dom";
 export default function ProjectsLayout() {
   return (
     <>
-
-      <Outlet /> {/* Renders nested child routes */}
+      <a href="https://main--outew.netlify.app/">Memory game</a>
     </>
   );
 }
